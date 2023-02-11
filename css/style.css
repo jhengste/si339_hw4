@@ -236,6 +236,10 @@ first div in the grid  and place it in the grid. */
 	nav {
 		display: flex;
 		justify-content: flex-end;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		padding-left: 0px;
+		padding-right: 0px;
 	}
 
 	/* Step 10: Write the selector/rule property to update the .container class */
